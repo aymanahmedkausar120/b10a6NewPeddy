@@ -27,3 +27,21 @@
    - Template literals for dynamic strings  
    - Destructuring assignment  
    - Array methods like `map()`, `filter()`, and `forEach()` 
+
+   ---
+   ### Click to visit my website
+   ### Click: [Peddy Web](https://aymanahmedkausar120.github.io/b10a6NewPeddy/)
+
+---
+
+
+
+
+   ## My submit github link
+   - **My repo link:** [My repo link](https://github.com/aymanahmedkausar120/b10a6NewPeddy)
+   - **Web live link:** [Web live link](https://aymanahmedkausar120.github.io/b10a6NewPeddy/
+    )
+
+
+# Best of Luck
+---
